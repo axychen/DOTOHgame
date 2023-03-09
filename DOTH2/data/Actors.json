@@ -4,5 +4,5 @@ null,
 {"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"特雷泽","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"马莎","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢修斯","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"GAVIN-BATTLE","characterIndex":0,"characterName":"GAVIN-WALK","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gavin","traits":[],"initialLevel":1,"maxLevel":1,"name":"Gavin Geller","nickname":"Gavin","note":"","profile":"Gavin Geller is looking for his twin brother in lost village."}
+{"id":5,"battlerName":"GAVIN-BATTLE","characterIndex":0,"characterName":"GAVIN-WALK","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gavin","traits":[],"initialLevel":1,"maxLevel":1,"name":"Jay","nickname":"Gavin","note":"Twin brother of Gavin","profile":"Jay Geller has blood on his sholder, hair, shoes, everywhere..."}
 ]
