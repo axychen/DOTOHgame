@@ -1,2 +1,2 @@
 # DOTOHgame
-The 2D RPG game developed by Unity
+The 2D RPG game developed by RPGMaker
